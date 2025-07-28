@@ -15,8 +15,7 @@ Conversor de unidades implementado en Python como evidencia de competencias téc
 | GitHub | Repositorio con historial de commits |
 
 ## 📁 Estructura del Proyecto
-
-EV-PortafolioM3/
+ ```EV-PortafolioM3/
 ├── commit1/
 │ └── conversor.py # Versión básica (inputs)
 ├── commit2/
@@ -26,4 +25,11 @@ EV-PortafolioM3/
 ├── commit4/
 │ └── conversor.py # Versión final (funciones + diccionarios)
 └── README.md # Este archivo
+ ```
+## 🚀 Cómo Ejecutar
+```bash
+# Versión básica:
+python commit1/conversor.py
 
+# Versión final con menú:
+python commit4/conversor.py
